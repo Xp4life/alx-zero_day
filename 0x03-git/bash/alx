@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "School"
-^C
-go back 
+echo "ALX"
+cd /root
